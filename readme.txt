@@ -12,7 +12,8 @@ This .js file allows you to:
 
 What you need before you run:
   1.Node js environment
-  2.pupeteer
+  2.Pupeteer
+     This .js file works only on NON-headless mode. Probably because Instagram detects headless mode of Pupeteer
 
 
 Kanta Yamaoka
